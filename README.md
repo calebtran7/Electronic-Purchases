@@ -14,6 +14,7 @@ QUESTIONS ANSWERED:
 ![image](https://user-images.githubusercontent.com/121086856/210975915-b5ed49b5-62b2-491a-bbbc-890a5e732539.png)
 
 4. What products are most often sold together?
+
 ('iPhone', ' Lightning Charging Cable') 1005
 ('Google Phone', ' USB-C Charging Cable') 987
 ('iPhone', ' Wired Headphones') 447
