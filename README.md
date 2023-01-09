@@ -9,7 +9,9 @@ QUESTIONS ANSWERED:
 1. What was the best month for sales? How much was earned that month? Worst month?
 ![image](https://user-images.githubusercontent.com/121086856/211246170-d1d90787-6335-4800-9477-2f728da37035.png)
 
+
 2. What city had the highest number of sales? Lowest?
+
 ![image](https://user-images.githubusercontent.com/121086856/210975840-f923f502-c7b1-4546-829a-f6ae80c4f79d.png)
 
 3. What time should we display advertisements in order to maximize likelihood of customer's buying product?
