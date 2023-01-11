@@ -2,7 +2,6 @@
 
 In this guided project, I take a data set of technology sales and utilize tools such as Python Pandas and matplotlib to explore the data and answer hypothetical business questions.
 
-credits for base project: Keith Galli - https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw
 
 QUESTIONS ANSWERED:
 
@@ -35,3 +34,4 @@ QUESTIONS ANSWERED:
 ![image](https://user-images.githubusercontent.com/121086856/210976090-7f0eca45-35fc-4777-8c2f-017f84b71273.png)
 
 
+credits for base project: Keith Galli - https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw
