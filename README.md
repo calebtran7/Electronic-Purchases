@@ -2,8 +2,12 @@
 
 In this guided project, I take a data set of technology sales and utilize tools such as Python Pandas and matplotlib to explore the data and answer hypothetical business questions.
 
+## Data Cleaning:
 
-QUESTIONS ANSWERED:
+After obtaining data in the form of separate csv's for each month's sales, I had to clean it up so it was analyzable for my goals. I made the following changes and created the following variables:
+- 
+
+## QUESTIONS ANSWERED:
 
 1. What was the best month for sales? How much was earned that month? Worst month?
 ![image](https://user-images.githubusercontent.com/121086856/211246170-d1d90787-6335-4800-9477-2f728da37035.png)
