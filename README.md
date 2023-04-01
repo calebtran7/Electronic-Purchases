@@ -1,11 +1,27 @@
-# Technology Sales
+# Technology Sales: Project Overview
 
 In this guided project, I take a data set of technology sales and utilize tools such as Python Pandas and matplotlib to explore the data and answer hypothetical business questions.
 
-## Data Cleaning:
+## The Data's Contents
+
+Data on purchases from a particular technology store. With each purchase, we got the following:
+- Order ID
+- Product name
+- Quantity Ordered
+- Price each
+- Order Date
+- Purchase Address
+
+## Data Cleaning 
+
 
 After obtaining data in the form of separate csv's for each month's sales, I had to clean it up so it was analyzable for my goals. I made the following changes and created the following variables:
-- 
+- Merging 12 months of sales data into a single CSV file
+- Drop rows of NaN
+- Convert column to correct types (all were as type string)
+- Add a month column
+- Add a sales column
+- Add a city column
 
 ## QUESTIONS ANSWERED:
 
