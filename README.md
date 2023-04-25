@@ -54,4 +54,3 @@ After obtaining data in the form of separate csv's for each month's sales, I had
 ![image](https://user-images.githubusercontent.com/121086856/210976090-7f0eca45-35fc-4777-8c2f-017f84b71273.png)
 
 
-credits for base project - https://www.youtube.com/@KeithGalli
