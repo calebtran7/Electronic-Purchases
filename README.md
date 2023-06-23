@@ -1,6 +1,6 @@
 # Technology Sales: Project Overview
 
-In this guided project, I take a data set of technology sales and utilize tools such as Python Pandas and matplotlib to explore the data and answer hypothetical business questions.
+In this project, I take a data set of technology sales and utilize tools such as Python Pandas and matplotlib to explore the data and answer hypothetical business questions.
 
 ## The Data's Contents
 
